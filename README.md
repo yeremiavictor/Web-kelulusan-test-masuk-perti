@@ -1,4 +1,4 @@
-# Web-kelulusan-test-masuk-perti
+#Desain Web pengumuman kelulusan test
 
 Website sederhana ini dibangun untuk mengetahui kelulusan pmb di STIKes Panti Waluya Malang.
 dibangun dengan html + bootstrap
